@@ -1,0 +1,4 @@
+Scheduling the Ingestion data pipeline.
+
+Tool - Airflow.
+Architecture - Described in Usecase Architecture Diagram.
